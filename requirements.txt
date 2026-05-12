@@ -7,3 +7,5 @@ beautifulsoup4
 lxml
 arxiv 
 langchain-openai
+faiss-cpu
+dotenv
